@@ -1,7 +1,7 @@
 #ifndef CMATH
 #define CMATH
 
-#include "constants.h"
+#include "trignometry.h"
 
 U64 factorial(U8 x);
 

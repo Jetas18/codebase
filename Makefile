@@ -8,10 +8,10 @@ CXXFLAGS = -std=c11 -Wall -lm
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = MathLib
+APPNAME = myapp
 EXT = .c
-SRCDIR = .
-OBJDIR = .
+SRCDIR = src
+OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
 SRC = $(wildcard $(SRCDIR)/*$(EXT))
