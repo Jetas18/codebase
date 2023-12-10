@@ -1,5 +1,5 @@
 
-#include "include/cmathematics/trignometry.h"
+#include "trignometry.h"
 
 #include <stdio.h>
 
