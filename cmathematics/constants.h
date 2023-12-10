@@ -2,6 +2,7 @@
 
 #define CONSTANTS_H
 #include "types.h"
+#include <math.h>
 
 extern const F32 pi_f32;
 extern const F64 pi_f64;

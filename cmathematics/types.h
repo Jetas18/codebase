@@ -1,12 +1,9 @@
 #ifndef TYPES
 
 #define TYPES
-#include <assert.h>
-#include <stdarg.h>
+
 #include <stdbool.h>
 #include <stdint.h>
-#include <stdlib.h>
-
 typedef int8_t S8;
 typedef int16_t S16;
 typedef int32_t S32;
