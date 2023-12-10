@@ -1,8 +1,10 @@
-#include "constants.h"
-#include <math.h>
+
 
 #ifndef CMATH
 #define CMATH
+
+#include "constants.h"
+#include <math.h>
 
 #ifndef FACTORIAL
 #define FACTORIAL

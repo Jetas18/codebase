@@ -1,4 +1,8 @@
+#ifndef TYPES
 
+#define TYPES
+#include <assert.h>
+#include <stdarg.h>
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdlib.h>
@@ -17,3 +21,5 @@ typedef uintmax_t Usize;
 
 typedef float F32;
 typedef double F64;
+
+#endif // !TYPES
