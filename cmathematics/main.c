@@ -1,11 +1,12 @@
 
+#include "cmath.h"
 #include "trignometry.h"
 
 #include <stdio.h>
 
 int main() {
 
-  printf("%d", is_pyth_triplet(3, 4, 5));
+  printf("%d", is_prime(4201021984));
 
   return 0;
 }

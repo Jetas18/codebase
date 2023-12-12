@@ -1,4 +1,6 @@
 #include "cmath.h"
+#include "types.h"
+#include <stdbool.h>
 U64 factorial(U8 x) {
   if (x == 0) {
     return 1;
@@ -24,4 +26,19 @@ U64 fib(U16 x) {
   else {
     return round((1 + pow(gold_f64, x)) / sqrt(5));
   }
+}
+
+bool is_prime(U64 x) {
+  if (x == 1) {
+    return false;
+  }
+
+  U64 root = (U64)round(sqrt(x));
+
+  for (U64 i = 2; i < root; i++) {
+    if (x % i == 0) {
+      return false;
+    }
+  }
+  return true;
 }

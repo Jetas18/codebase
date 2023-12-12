@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = Mathlib
 EXT = .c
-SRCDIR = .
+SRCDIR = cmathematics
 OBJDIR = .
 
 ############## Do not change anything from here downwards! #############
