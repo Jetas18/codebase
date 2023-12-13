@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/Codebase.dir/includes/Codebase.c.o -c /home/jetas/codebase/includes/Codebase.c",
+  "file": "/home/jetas/codebase/includes/Codebase.c",
+  "output": "CMakeFiles/Codebase.dir/includes/Codebase.c.o"
+},
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/Codebase.dir/includes/cmath.c.o -c /home/jetas/codebase/includes/cmath.c",
+  "file": "/home/jetas/codebase/includes/cmath.c",
+  "output": "CMakeFiles/Codebase.dir/includes/cmath.c.o"
+},
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/Codebase.dir/includes/constants.c.o -c /home/jetas/codebase/includes/constants.c",
+  "file": "/home/jetas/codebase/includes/constants.c",
+  "output": "CMakeFiles/Codebase.dir/includes/constants.c.o"
+},
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/Codebase.dir/includes/trignometry.c.o -c /home/jetas/codebase/includes/trignometry.c",
+  "file": "/home/jetas/codebase/includes/trignometry.c",
+  "output": "CMakeFiles/Codebase.dir/includes/trignometry.c.o"
+},
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/Codebase.dir/includes/vec.c.o -c /home/jetas/codebase/includes/vec.c",
+  "file": "/home/jetas/codebase/includes/vec.c",
+  "output": "CMakeFiles/Codebase.dir/includes/vec.c.o"
+},
+{
+  "directory": "/home/jetas/codebase/build",
+  "command": "/usr/bin/gcc -I/home/jetas/codebase/./includes -g -o CMakeFiles/main.dir/main.c.o -c /home/jetas/codebase/main.c",
+  "file": "/home/jetas/codebase/main.c",
+  "output": "CMakeFiles/main.dir/main.c.o"
+}
+]

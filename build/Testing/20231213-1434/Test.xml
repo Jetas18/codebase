@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20231213-1434-Experimental"
+	Name="chuuya"
+	Generator="ctest-3.28.0"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="chuuya"
+	OSRelease="6.6.6-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Mon, 11 Dec 2023 11:48:23 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="160"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="9011"
+	TotalPhysicalMemory="7171"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1934.98"
+	>
+	<Testing>
+		<StartDateTime>Dec 13 20:04 IST</StartDateTime>
+		<StartTestTime>1702478055</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 13 20:04 IST</EndDateTime>
+		<EndTestTime>1702478055</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

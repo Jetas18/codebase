@@ -3,7 +3,7 @@
 
 int main() {
 
-  printf("%d", (int)is_prime(69));
+  printf("%d", is_prime(4201021984));
 
   return 0;
 }

@@ -1,0 +1,10 @@
+# ninja log v5
+2	51	1702478059908406504	CMakeFiles/Codebase.dir/includes/vec.c.o	160f00509139f1b2
+2	55	1702478059908406504	CMakeFiles/Codebase.dir/includes/Codebase.c.o	eb6f506c00102ad
+2	59	1702478059915073384	CMakeFiles/Codebase.dir/includes/trignometry.c.o	4502b5779f13a9e5
+2	66	1702478059921740265	CMakeFiles/Codebase.dir/includes/constants.c.o	4594365b3f792b56
+3	70	1702478059928407145	CMakeFiles/main.dir/main.c.o	c9ae6214c85309
+2	70	1702478059928407145	CMakeFiles/Codebase.dir/includes/cmath.c.o	ead108ecd3fc8e66
+70	170	1702478060025076910	libCodebase.a	9e3a30f4e1240ed0
+170	224	1702478060078411953	main	40f1126dd3e35dd
+2	25	0	clean	a31eedcededa8236
