@@ -1,6 +1,5 @@
 
 #include "cmath.h"
-#include "trignometry.h"
 
 #include <stdio.h>
 

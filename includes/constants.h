@@ -1,4 +1,8 @@
-#include "constants.h"
+#ifndef CONSTANTS_H
+
+#define CONSTANTS_H
+#include "types.h"
+#include <math.h>
 
 const F32 pi_f32 = 3.14159265358979323846264338327950288f;
 const F64 pi_f64 = 3.14159265358979323846264338327950288;
@@ -54,8 +58,8 @@ const F64 sun_gravity_f64 = 274.0;
 const F32 electron_charge_f32 = 1.6021766208e-19f;
 const F64 electron_charge_f64 = 1.6021766208e-19;
 
-const F32 finestructure_constant_f32 = 0.0072973525664f;
-const F64 finestructure_constant_f64 = 0.0072973525664;
+const F32 alpha_f32 = 0.0072973525664f;
+const F64 alpha_f64 = 0.0072973525664;
 
 const F32 rydberg_constant_f32 = 1.9e-12f;
 const F64 rydberg_constant_f64 = 1.9e-12;
@@ -71,3 +75,9 @@ const F64 gas_constant_f64 = 8.31446261815324;
 
 const F32 refractive_index_air_f32 = 1.000293f;
 const F64 refractive_index_air_f64 = 1.000293;
+
+const F64 infinity = 0x7f800000;
+
+const F64 neg_infinity = 0xff800000;
+
+#endif
